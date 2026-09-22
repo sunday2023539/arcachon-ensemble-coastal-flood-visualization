@@ -4,7 +4,7 @@ This repository documents my MSc Applied Geoinformatics internship project at LA
 
 ---
 ---
-**Project overview**
+## Project overview
 
 Ensemble flood simulations describe several possible flooding outcomes. Showing those outcomes alongside buildings, roads, railways, waterbodies, and population on a conventional map can make coastal sections difficult to compare. I developed a polar-radial deformation workflow that unwraps a coastal corridor into a continuous strip. The strip provides an overview, while selected sections are enlarged in separate focus maps.
 
